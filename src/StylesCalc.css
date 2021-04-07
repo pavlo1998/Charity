@@ -1,0 +1,64 @@
+#mainPicture{
+    background-image: url("./img/145607-oduvanchik-sinij-tsvetok-pylca-smartfon-3840x2160.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    z-index: 0;
+}
+.res{
+    border: 2px solid grey;
+    width: 100px;
+    height: 50px;
+}
+#userPicMain{
+    border: 2px solid black;
+}
+#user{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.btn{
+    min-height: 60px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 15px;    
+    width: 12rem;
+}
+
+
+#wantToHelp{
+    background-color: #3259a4;
+    color: white;
+}
+#needHelp{
+    background-color: white;
+    color: #3259a4;
+}
+#navbar{
+    background: rgba(50, 88, 163, 0);
+    box-shadow: 0 0 0 0;
+}
+#navLink{
+    color: white;
+    
+}
+
+#checkMark{
+    width: 50px;
+    height: 50px;
+}
+
+#createAdd{
+    min-height: 400px;
+}
+#infoCont{
+    width: 70%;
+}
+#userAddCard{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+#row{
+    margin: 40px auto;
+}
